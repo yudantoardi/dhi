@@ -21558,3 +21558,10 @@ $grid-breakpoints: (
   background: var(--theme-color1);
   color: #fff;
 }
+.entry-header h2{
+  font-size: 48px;
+  color: var(--theme-color1);
+}
+.upcoming-events{
+  margin-bottom: 30px;
+}
